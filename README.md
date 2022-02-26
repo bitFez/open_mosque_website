@@ -12,6 +12,8 @@ The project is being developed using a Django backend. We are still in early sta
 
 Before trying to run the server
 
+- Note: Currently the setup requires Python 3.8. >=3.9 is causing an issue with one of the depencies.
+
 ### Django
 
 - add a file named `.env` in the root folder
